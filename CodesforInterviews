@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main()
+String a=" ",b=" ",c=" ",d=" ",e=" ";
+int s,r;
+//intput is "a=9 and b=3"
+cin>>a>>b>>s>>c>>d>>e>>r;
+cout<<s<<r;
+return 0;
